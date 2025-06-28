@@ -26,7 +26,7 @@ class ContactTest extends Simulation{
     .exec(
       http("Create Contact")
         .post(s"contacts")
-        .header("Authorization", s"Bearer ${authToken}")
+        .header("Authorization", "Bearer ${authToken}")
         .body(StringBody(
         s"""
         {
