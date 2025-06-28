@@ -10,7 +10,7 @@ object Data{
 
     //Contact Data
     val firstName = "John"
-    val lastName = "Doe",
+    val lastName = "Doe"
     val birthdate = "1970-01-01"
     val email = "johndoe@mail.com"
     val phone = "8005555555"
