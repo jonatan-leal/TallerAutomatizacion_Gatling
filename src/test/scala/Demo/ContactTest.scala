@@ -33,7 +33,7 @@ class ContactTest extends Simulation{
             "firstName": "$firstName",
             "lastName": "$lastName",
             "birthdate": "$birthdate",
-            "email": "$email",
+            "email": "$contactEmail",
             "phone": "$phone",
             "street1": "$street1",
             "street2": "$street2",

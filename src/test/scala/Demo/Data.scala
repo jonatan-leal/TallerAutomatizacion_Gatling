@@ -12,7 +12,7 @@ object Data{
     val firstName = "John"
     val lastName = "Doe"
     val birthdate = "1970-01-01"
-    val email = "johndoe@mail.com"
+    val contactEmail = "johndoe@mail.com"
     val phone = "8005555555"
     val street1 = "1 Main St."
     val street2 = "Apartment A"
